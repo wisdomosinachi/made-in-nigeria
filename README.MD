@@ -131,6 +131,7 @@
 ## <a name="W"> </a>W
 
 * [wtfoperamini](https://github.com/ireade/wtfoperamini) - Development features not supported in Opera Mini, and some crowsourced workarounds for them. **By [@ireaderinokun](https://twitter.com/ireaderinokun)**
+*  [WebberTM](https://github.com/wisdomosinachi/webbertm) - African-Based Custom Software Development + Business Consulting Company. **By [@wisdomosinachi](https://twitter.com/wisdomosinach)**
 
 ## <a name="X"> </a>X
 
